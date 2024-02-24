@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ChanduRayanki
-- 👀 Snistian
 - 🌱 Coder, Tech-enthusiastist, learning constantly.
 - 📫 To reach me ...leave a mail to c429702@gmail.com
 
