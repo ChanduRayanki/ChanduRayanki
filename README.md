@@ -78,7 +78,7 @@
 <p align="left"></p>
 
 ###
-
+<h6 align = "center" > Profile views</h6>
 <div align="center">
   <img src="https://profile-counter.glitch.me/ChanduRayanki/count.svg?"  />
 </div>
